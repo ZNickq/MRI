@@ -1,0 +1,15 @@
+{
+  "name": "mri",
+  "version": "1.0.0",
+  "description": "Website for Marketing Research International",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Zloteanu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5"
+  }
+}
